@@ -6,7 +6,7 @@ Ich entwickle eine Web-GIS Anwendung für den privaten Gebrauch, in einsehen kan
 3. Ich kann mit einem Tool Strecken einzeichnen, die ich mit dem Fahrrad gefahren bin.
 4. Diese Strecke wird als Overlay angezeigt
 # Erste Skizze
-![[Pasted image 20260403140922.png]]
+![UI Sketch](images/sketch.png)
 https://map-making.app als Inspiration
 # Geplante Features
 - Karte anzeigen
